@@ -1,0 +1,56 @@
+\babel@toc {british}{}\relax 
+\contentsline {section}{\numberline {1}Acknowledgements}{2}{section.1}%
+\contentsline {section}{\numberline {2}Abstract}{2}{section.2}%
+\contentsline {section}{\numberline {3}Introduction}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Background}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Case Study Area}{7}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Research Question}{7}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Research Objectives}{7}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Thesis Outline}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Literature Review}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Flood Risk}{9}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Defining Flooding}{10}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Sources of Flooding}{13}{subsubsection.4.1.2}%
+\contentsline {paragraph}{\numberline {4.1.2.1}Flooding from Watercourses}{14}{paragraph.4.1.2.1}%
+\contentsline {paragraph}{\numberline {4.1.2.2}Flooding from Surface Water}{16}{paragraph.4.1.2.2}%
+\contentsline {paragraph}{\numberline {4.1.2.3}Coastal Inundation}{17}{paragraph.4.1.2.3}%
+\contentsline {paragraph}{\numberline {4.1.2.4}Groundwater Flooding}{19}{paragraph.4.1.2.4}%
+\contentsline {paragraph}{\numberline {4.1.2.5}High Impact, Low Probability Events}{20}{paragraph.4.1.2.5}%
+\contentsline {paragraph}{\numberline {4.1.2.6}Compound Flooding}{20}{paragraph.4.1.2.6}%
+\contentsline {subsubsection}{\numberline {4.1.3}The Changing Nature of Flood Risk Drivers}{20}{subsubsection.4.1.3}%
+\contentsline {paragraph}{\numberline {4.1.3.1}Climatic and Environmental Drivers}{20}{paragraph.4.1.3.1}%
+\contentsline {paragraph}{\numberline {4.1.3.2}Climate and Environmental Drivers}{22}{paragraph.4.1.3.2}%
+\contentsline {paragraph}{\numberline {4.1.3.3}Anthropogenic Drivers}{22}{paragraph.4.1.3.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Modelling Floods}{23}{subsubsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.2}Building Resilience to Floods}{23}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Defining Resilience}{23}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Structural Interventions}{23}{subsubsection.4.2.2}%
+\contentsline {paragraph}{\numberline {4.2.2.1}Critical Infrastructure}{23}{paragraph.4.2.2.1}%
+\contentsline {paragraph}{\numberline {4.2.2.2}Transport Infrastructure}{23}{paragraph.4.2.2.2}%
+\contentsline {paragraph}{\numberline {4.2.2.3}Implementing Resilient Infrastructure}{23}{paragraph.4.2.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.3}Non-Structural Interventions}{23}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}Nature-based Solutions for Urban Flood Resilience}{23}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Defining Nature-based Solutions}{23}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Achieving Urban Flood Resilience with NBS}{23}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}NBS Design Typologies}{23}{subsubsection.4.3.3}%
+\contentsline {paragraph}{\numberline {4.3.3.1}Rain Gardens}{23}{paragraph.4.3.3.1}%
+\contentsline {paragraph}{\numberline {4.3.3.2}Swales and Filter Strips}{23}{paragraph.4.3.3.2}%
+\contentsline {paragraph}{\numberline {4.3.3.3}Dry Retention Basins}{23}{paragraph.4.3.3.3}%
+\contentsline {paragraph}{\numberline {4.3.3.4}Coastal NBS}{23}{paragraph.4.3.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.4}Co-Benefits of NBS}{23}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}Facilitating the Uptake of NBS}{23}{subsubsection.4.3.5}%
+\contentsline {paragraph}{\numberline {4.3.5.1}Competition for Space}{23}{paragraph.4.3.5.1}%
+\contentsline {paragraph}{\numberline {4.3.5.2}Perceived Costs}{23}{paragraph.4.3.5.2}%
+\contentsline {paragraph}{\numberline {4.3.5.3}Retrofitting NBS into Urban Environments}{23}{paragraph.4.3.5.3}%
+\contentsline {paragraph}{\numberline {4.3.5.4}Maintenance Responsibilities}{23}{paragraph.4.3.5.4}%
+\contentsline {subsection}{\numberline {4.4}Planning Under Uncertainty}{23}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Sources of Uncertainty}{23}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Dynamic Adaptive Pathways Planning}{23}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Decision Tools}{23}{subsubsection.4.4.3}%
+\contentsline {section}{\numberline {5}Methodology}{23}{section.5}%
+\contentsline {subsection}{\numberline {5.1}GIS-based Risk Assessment}{23}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Adaptation Option Development}{23}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Cost-Benefit Analysis}{23}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Results}{23}{section.6}%
+\contentsline {section}{\numberline {7}Discussion}{23}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{23}{section.8}%

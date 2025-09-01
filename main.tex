@@ -1,0 +1,83 @@
+\documentclass[12pt,a4paper, doc]{apa7}
+
+\usepackage[british]{babel}
+
+\usepackage{lscape}
+\usepackage{csquotes} 
+\usepackage[style=apa]{biblatex}
+\DeclareLanguageMapping{british}{british-apa} 
+\addbibresource{references.bib} 
+% Formatting
+\usepackage{setspace} % For line spacing
+\doublespacing         % APA recommends 1.5 or double spacing
+\usepackage{mathptmx}
+\usepackage{graphicx}
+\usepackage{float}
+\graphicspath{ {./Content/Figures/} } % For figures
+\usepackage{caption}
+\usepackage{subcaption}
+
+% Titles
+\usepackage{titlesec}
+
+\setcounter{secnumdepth}{4}
+
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+
+% Tables
+\usepackage{ltablex, booktabs, ragged2e, setspace, float, caption}
+\keepXColumns
+\newcolumntype{L}[1]{>{\RaggedRight\arraybackslash}p{#1}} 
+\newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
+\sloppy
+
+
+
+% Title and Author
+\title{Value for money Resilience: Nature-Based Solutions for New Zealand’s Urban Transport Networks}
+\shorttitle{NbS for Urban Transport Resilience}
+
+\author{Lucy Dunshea}
+\affiliation{University of Canterbury}
+\course{GEOG695 - Thesis}
+
+\leftheader{Dunshea}
+
+% Abstract
+\abstract{Coastal urban environments are increasingly vulnerable to the impacts of flooding, driven by both climatic factors—such as sea-level rise and extreme rainfall—and anthropogenic influences, including land use changes and urban densification. In New Zealand, floods are the most frequent and second most costly natural disaster, following earthquakes. Global projections estimate that flood-related economic losses will continue to rise unless adaptive strategies are implemented. Nature-Based Solutions (NBS) have emerged as a promising umbrella framework for addressing both environmental and societal challenges using naturally occurring systems and processes. Within the urban water management context, sub-frameworks such as Water-Sensitive Urban Design (WSUD), Green-Blue Infrastructure (GBI), Low Impact Development (LID), and Sustainable Urban Drainage Systems (SUDS) offer practical strategies to mitigate flood risks while delivering co-benefits for communities.}
+
+\keywords{Nature-based solutions, transport resilience, flooding, green infrastructure, Petone}
+
+\begin{document}
+
+\maketitle
+\newpage
+
+%================== BODY ==================%
+\section{Acknowledgements}
+\section{Abstract}
+
+\newpage
+\tableofcontents
+\newpage
+\section{Introduction}
+\input{Content/Body_Text/01_Introduction}
+\section{Literature Review}
+\input{Content/Body_Text/02_Literature_Review}
+\section{Methodology}
+\input{Content/Body_Text/03_Methodology}
+\section{Results}
+\input{Content/Body_Text/04_Results}
+\section{Discussion}
+\input{Content/Body_Text/05_Discussion}
+\section{Conclusion}
+\input{Content/Body_Text/06_Conclusion}
+%================= BIBLIOGRAPHY ==================%
+\newpage
+\printbibliography{}
+
+\end{document}
+
